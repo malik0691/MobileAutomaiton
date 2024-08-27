@@ -1,0 +1,10 @@
+[35m[Appium][39m You can provide the following URLS in your client code to connect to this server:
+[35m[Appium][39m 	http://172.28.176.1:4723/
+[35m[Appium][39m 	http://192.168.100.7:4723/
+[35m[Appium][39m 	http://127.0.0.1:4723/ (only accessible from the same host)
+[35m[Appium][39m Available drivers:
+[35m[Appium][39m   - uiautomator2@2.29.11 (automationName 'UiAutomator2')
+[35m[Appium][39m   - xcuitest@5.6.0 (automationName 'XCUITest')
+[35m[Appium][39m Available plugins:
+[35m[Appium][39m   - execute-driver@3.0.33
+[35m[Appium][39m No plugins activated. Use the --use-plugins flag with names of plugins to activate
